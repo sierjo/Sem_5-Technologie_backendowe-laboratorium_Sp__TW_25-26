@@ -1,5 +1,6 @@
 package com.project.jobportal.services;
 
+import com.project.jobportal.dto.NotificationDTO;
 import com.project.jobportal.entity.JobPostActivity;
 import com.project.jobportal.entity.Users;
 import lombok.extern.slf4j.Slf4j;
